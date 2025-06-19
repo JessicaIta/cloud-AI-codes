@@ -4,6 +4,7 @@ Repositório de experimentos em Cloud
 - TxGemma: LLM para Desenvolvimento de Fármacos
 
 Documento usado no experimento: https://bvsms.saude.gov.br/bvs/publicacoes/cart_vac.pdf
+
 Link do post do TxGemma: https://medium.com/jessica-costa/txgemma-llm-para-desenvolvimento-de-f%C3%A1rmacos-93e75d512ac1
 
 
